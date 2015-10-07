@@ -1,0 +1,30 @@
+body {
+    background-color: #4DD9FF;
+	text-align: center;
+}
+
+header {
+	padding-top: 25px;
+}
+
+img {
+	width:50%;
+	height:50%;
+}
+
+h1 {
+  font-family:Arial;
+  color:purple;
+}
+
+.important {
+  color:red;
+}
+
+#somesuch {
+  color:blue;
+}
+
+span.important {
+  color:darkred;
+}
